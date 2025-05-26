@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#2C74B3 </color>
+    <color name="grey">#8F8F8F</color>
+    <array name="blue_gradient_colors">
+        <item>#FF0A2647</item>  <!-- #0A2647 -->
+        <item>#FF144272</item>  <!-- #144272 -->
+        <item>#FF205295</item>  <!-- #205295 -->
+        <item>#FF2C74B3</item>  <!-- #2C74B3 -->
+    </array>
+</resources>
